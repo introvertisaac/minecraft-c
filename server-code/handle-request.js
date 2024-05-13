@@ -4,7 +4,7 @@ const cors = require("cors");
 const app = express();
 const port = 3000;
 
-const bypassAPILink = `http://77.37.51.164:4200/bypass/`;
+// const bypassAPILink = `http://77.37.51.164:4200/bypass/`;
 
 /**
  * Extract domain from a url
